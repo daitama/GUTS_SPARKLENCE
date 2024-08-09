@@ -21,26 +21,13 @@
 #define TRIGGER_SPARK_ON 4
 #define HENSHIN_TRIGGER  5
 
-// TRIGGER/TIGA TYPE LIST
+// TRIGGER TYPE LIST
 #define MULTI_TYPE      1
 #define POWER_TYPE      2
 #define SKY_TYPE        3
 #define TRIGGER_TRUTH   4
 #define GLITTER_TRIGGER 5
 #define HYPER_GUN_MODE  6
-
-// Z ULTRA FUSION LIST
-#define ORIGINAL       7
-#define ALPHA_EDGE     8
-#define BETA_SMASH     9
-#define GAMMA_FUTURE   10
-#define DELTARISE_CLAW 11
-
-// TIGA TYPE LIST
-#define TIGA_MULTI    12
-#define TIGA_POWER    13
-#define TIGA_SKY      14
-#define TIGA_GLITTER  15 
 
 #define N_BUTTON 2
 #define ON LOW
