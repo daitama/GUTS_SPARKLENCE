@@ -41,8 +41,6 @@ const uint8_t OFF_ON[] = {OFF, ON};
 const uint8_t ON_ON[] = {ON, ON};
 
 const uint8_t trigger_type[] = {MULTI_TYPE, POWER_TYPE, SKY_TYPE, TRIGGER_TRUTH, GLITTER_TRIGGER};
-const uint8_t tiga_type[] = {TIGA_MULTI, TIGA_POWER, TIGA_SKY, TIGA_GLITTER};
-const uint8_t z_fusion[] = {ORIGINAL, ALPHA_EDGE, BETA_SMASH, GAMMA_FUTURE, DELTARISE_CLAW};
 uint8_t type = HYPER_GUN_MODE;
 uint8_t currentIndex;
 
